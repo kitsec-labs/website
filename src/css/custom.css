@@ -121,7 +121,8 @@ button {
 }
 
 .footer {
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
+  padding-top: 0rem;
 }
 @media screen and (max-width: 996px) {
   .footer__links {
