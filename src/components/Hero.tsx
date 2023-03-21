@@ -8,7 +8,8 @@ type Partner = {
 
 export default function Hero(): JSX.Element {
   return (
-    <section className="tw-py-24 tw-pb-34 lg:tw-py-32 tw-text-center">
+    <section className="tw-py-24 tw-pb-40 tw-pt-40 lg:tw-py-32 tw-text-center">
+      <div className="tw-flex tw-justify-center tw-items-center tw-mx-auto tw-w-full"></div>
       <div className="tw-text-sm lg:tw-text-base tw-text-gray-400 tw-uppercase tw-font-bold tw-tracking-wider tw-mb-4">
         Powered by Kitsec
       </div>
@@ -32,6 +33,9 @@ export default function Hero(): JSX.Element {
           />
         </a>
       </div>
+      <div className="tw-flex tw-justify-center tw-items-center tw-mx-auto tw-w-full"></div>
+      <div className="empty-container" style={{ height: "110px" }}></div>
     </section>
   );
 }
+
