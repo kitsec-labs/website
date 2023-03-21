@@ -9,12 +9,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/nightOwl");
 const config = {
   title: "Kitsec",
   tagline: "Ethical Hacking, made easy.",
-  url: "https://trykitsec.com",
+  url: "https://kitsec.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "kitsec-core", // Usually your GitHub org/user name.
+  deploymentBranch:"main",
+  organizationName: "kitsec-labs", // Usually your GitHub org/user name.
   projectName: "kitsec.github.io", // Usually your repo name.
   stylesheets: [
     // "https://fonts.googleapis.com/css2?family=Inter:wght@583&display=block",
