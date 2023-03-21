@@ -28,15 +28,13 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          // sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
+          sidebarPath: require.resolve("./sidebars.js"),
           editUrl: "https://github.com/kitsec-labs/kitsec-core",
           breadcrumbs: false,
           sidebarCollapsed: true,
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl: "https://github.com/kitsec-labs/kitsec-core",
         },
         theme: {
@@ -75,8 +73,7 @@ const config = {
       },
       
       navbar: {
-        // title: "My Site",
-        // hideOnScroll: true,
+        hideOnScroll: true,
         logo: {
           alt: "Kitsec Logo Logo",
           src: "img/logo_light.svg",
