@@ -112,8 +112,5 @@ const config = {
     }),
 };
 
-const organizationName = "idrisschebak";
-const projectName = "kitsec-website";
-
 
 module.exports = config;
