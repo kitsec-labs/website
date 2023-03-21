@@ -8,7 +8,7 @@ type Partner = {
 
 export default function Hero(): JSX.Element {
   return (
-    <section className="tw-py-24 lg:tw-py-32 tw-text-center" style={{ paddingBottom: "8rem" }}>
+    <section className="tw-py-24 tw-pb-34 lg:tw-py-32 tw-text-center">
       <div className="tw-text-sm lg:tw-text-base tw-text-gray-400 tw-uppercase tw-font-bold tw-tracking-wider tw-mb-4">
         Powered by Kitsec
       </div>
@@ -19,7 +19,7 @@ export default function Hero(): JSX.Element {
         <br /> Made Easy
       </h1>
       <p className="tw-text-lg lg:tw-text-xl tw-font-normal tw-text-gray-400 tw-max-w-2xl tw-mx-auto tw-px-4">
-        Simplify your workflow with Kitsec.
+        A simple CLI for bug bounty hunting.
       </p>
       <div className="tw-px-4 tw-mt-8">
         <a href="https://pypi.org/project/kitsec/" target="_blank" rel="noopener noreferrer">

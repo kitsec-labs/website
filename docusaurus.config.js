@@ -111,11 +111,4 @@ const config = {
     }),
 };
 
-module.exports = {
-  title:'Kitsec',
-  url:'https://github.com',
-  baseUrl: '/kitsec-website/',
-  projectName: 'kitsec-website',
-  organizationName: 'kitsec-labs',
-  favicon: 'img/favicon.ico',
-};
+module.exports = config;

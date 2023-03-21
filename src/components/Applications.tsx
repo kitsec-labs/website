@@ -7,6 +7,7 @@ type Feature = {
   description: JSX.Element;
 };
 
+
 const features: Feature[] = [
   {
     title: "Run it on your VPS",
@@ -62,10 +63,15 @@ const features: Feature[] = [
 
 export default function Applications(): JSX.Element {
   return (
-    <section className="tw-py-24 lg:tw-px-8">
-      <div className="tw-max-w-7xl tw-mx-auto lg:tw-grid lg:tw-grid-cols-2 lg:tw-gap-20 lg:tw-items-center">
-        <div className="tw-p-4">
+    
+    <section className="tw-pt-40 tw-pb-32 tw-px-4 lg:tw-px-8;">
+      <div className="tw-text-center">
+        <div className="tw-text-sm lg:tw-text-base tw-text-emerald-500 tw-uppercase tw-font-bold tw-tracking-wider">
+          Integration
         </div>
+        <h2 className="tw-text-4xl lg:tw-text-5xl tw-mt-4 tw-font-extrabold">
+          Kitsec does this.. and more.
+        </h2>
       </div>
       <div className="tw-max-w-7xl tw-mx-auto tw-mt-10 tw-grid lg:tw-grid-cols-3 tw-gap-x-20">
         {features.map((feature, index) => (
