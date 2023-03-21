@@ -16,7 +16,7 @@ const config = {
   favicon: "img/favicon.ico",
   deploymentBranch:"main",
   organizationName: "kitsec-labs", // Usually your GitHub org/user name.
-  projectName: "kitsec.github.io", // Usually your repo name.
+  projectName: "website", // Usually your repo name.
   stylesheets: [
     // "https://fonts.google.com/specimen/Montserrat",
     // "https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=block",
