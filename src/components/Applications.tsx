@@ -51,7 +51,7 @@ const features: Feature[] = [
     ),
   },
   {
-    title: "Dockerfile not required",
+    title: "Open Source",
     icon: require("@site/static/icons/open_source.svg").default,
     description: (
       <>
