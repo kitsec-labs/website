@@ -34,7 +34,7 @@ export default function Hero(): JSX.Element {
         </a>
       </div>
       <div className="tw-flex tw-justify-center tw-items-center tw-mx-auto tw-w-full"></div>
-      <div className="empty-container" style={{ height: "110px" }}></div>
+      <div className="empty-container" style={{ height: "112px" }}></div>
     </section>
   );
 }
