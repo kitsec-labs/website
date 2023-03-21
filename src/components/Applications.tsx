@@ -23,7 +23,7 @@ const features: Feature[] = [
     icon: require("@site/static/icons/github.svg").default,
     description: (
       <>
-        With a simple command, check any SSL/TLS certificates you need.
+        Kitsec is transparent, you can check out the source code on GitHub.
       </>
     ),
   },

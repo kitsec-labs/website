@@ -15,7 +15,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "kitsec-core", // Usually your GitHub org/user name.
-  projectName: "website", // Usually your repo name.
+  projectName: "kitsec.github.io", // Usually your repo name.
   stylesheets: [
     // "https://fonts.googleapis.com/css2?family=Inter:wght@583&display=block",
     // "https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=block",
@@ -110,5 +110,9 @@ const config = {
       },
     }),
 };
+
+const organizationName = "idrisschebak";
+const projectName = "kitsec-website";
+
 
 module.exports = config;
