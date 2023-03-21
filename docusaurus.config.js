@@ -14,9 +14,9 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  deploymentBranch:"main",
+  deploymentBranch:"gh-deploy",
   organizationName: "kitsec-labs", // Usually your GitHub org/user name.
-  projectName: "website", // Usually your repo name.
+  projectName: "kitsec-website", // Usually your repo name.
   stylesheets: [
     // "https://fonts.google.com/specimen/Montserrat",
     // "https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=block",
@@ -28,7 +28,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+        sidebarPath: require.resolve("./sidebars.js"),
           editUrl: "https://github.com/kitsec-labs/kitsec-core",
           breadcrumbs: false,
           sidebarCollapsed: true,
