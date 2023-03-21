@@ -112,9 +112,10 @@ const config = {
 };
 
 module.exports = {
-  url:'https://kitsec.app/',
   title:'Kitsec',
-  baseUrl: '/docs/',
+  url:'https://github.com',
+  baseUrl: '/kitsec-website/',
   projectName: 'kitsec-website',
-  organizationName: '<kitsec-labs>',
+  organizationName: 'kitsec-labs',
+  favicon: 'img/favicon.ico',
 };
