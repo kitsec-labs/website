@@ -11,7 +11,7 @@ type Testimonial = {
 const testimonials: Testimonial[] = [
   {
     name: "y0ng_dst",
-    role: "CTFER, Bug Bounty Hunter, 2x CVE",
+    role: "Cyber Security Consultant, 2x CVE",
     link: "https://y0ung-dst.github.io/",
     avatar:
       "https://y0ung-dst.github.io/young.gif",
