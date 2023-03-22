@@ -11,10 +11,10 @@ type Testimonial = {
 const testimonials: Testimonial[] = [
   {
     name: "Bryan Long",
-    role: "Applications Support Manager",
-    link: "https://twitter.com/iammrbt",
+    role: "A profile",
+    link: "https://example.com/",
     avatar:
-      "https://pbs.twimg.com/profile_images/1111711277200621573/TY255KfE_400x400.png",
+      "https://www.iconsdb.com/icons/preview/white/square-xxl.png",
     text: (
       <>
         XXXXXXXXXXXX XXXXXX XXXXX XXX XXXX, XXXXXXXXXXXXXX XXXXXXXXXX XXXX. XXXXXX XXXXXXXX, XXX XX XXXXXXXX XXXXXXXXX, XXXXX XXXXX XXXXXXXXXXXXXX XXXXX,
@@ -39,10 +39,10 @@ const testimonials: Testimonial[] = [
   
   {
     name: "Brian Short",
-    role: "Techie 👨‍💻🚀",
-    link: "https://twitter.com/ChrisBrocklesby",
+    role: "Another profile",
+    link: "https://example.com/",
     avatar:
-      "https://pbs.twimg.com/profile_images/1244539207890034688/SX7ZG3nt_400x400.jpg",
+      "https://www.iconsdb.com/icons/preview/white/square-xxl.png",
     text: (
       <>
         XXXXXXXXXXXX XXXXXX XXXXX XXX XXXX, XXXXXXXXXXXXXX XXXXXXXXXX XXXX. XXXXXX XXXXXXXX, XXX XX XXXXXXXX XXXXXXXXX, XXXXX XXXXX XXXXXXXXXXXXXX XXXXX,
