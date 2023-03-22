@@ -91,9 +91,9 @@ const config = {
         ],
       },
       algolia: {
-        appId: "291Q7ITAVJ",
-        apiKey: "e0fa29c5c372199c5b407b3c177d50b3",
-        indexName: "website",
+        appId: "SEF0873F05",
+        apiKey: "1689963ef663f7ce1a5071ba90f0fc5b",
+        indexName: "kitsec",
         contextualSearch: false,
         searchPagePath: false,
       },
