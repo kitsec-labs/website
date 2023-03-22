@@ -10,16 +10,17 @@ type Testimonial = {
 
 const testimonials: Testimonial[] = [
   {
-    name: "Bryan Long",
-    role: "A profile",
-    link: "https://example.com/",
+    name: "y0ng_dst",
+    role: "CTFER, Bug Bounty Hunter, 2x CVE",
+    link: "https://y0ung-dst.github.io/",
     avatar:
-      "https://www.iconsdb.com/icons/preview/white/square-xxl.png",
+      "https://y0ung-dst.github.io/young.gif",
     text: (
       <>
-        XXXXXXXXXXXX XXXXXX XXXXX XXX XXXX, XXXXXXXXXXXXXX XXXXXXXXXX XXXX. XXXXXX XXXXXXXX, XXX XX XXXXXXXX XXXXXXXXX, XXXXX XXXXX XXXXXXXXXXXXXX XXXXX,
-        XXXXX XXXXXX XXXXX XXXX XX XXXX. XXXX XXXXXX, XXXX XX XXXXXXXX XXXXXX, XXXXX XXXXX XXXXXX XXXX, XX XXXXXXXXX XXXX XXX XXXX XXXX.
-        XXXXX XXXX XXX XXXXXX XXXXX.'
+        I'm really proud and impressed by KitSec, a great security toolkit developed in Morocco. It has made my job 
+        much easier with its powerful and useful features such as user-friendly usage, fuzzing, port scanning, etc. 
+        I'm thrilled to support a homegrown product and highly recommend it to anyone looking to streamline their 
+        security processes in their bug hunting or pentesting journey.
       </>
     ),
   },
@@ -45,9 +46,9 @@ const testimonials: Testimonial[] = [
       "https://www.iconsdb.com/icons/preview/white/square-xxl.png",
     text: (
       <>
-        XXXXXXXXXXXX XXXXXX XXXXX XXX XXXX, XXXXXXXXXXXXXX XXXXXXXXXX XXXX. XXXXXX XXXXXXXX, XXX XX XXXXXXXX XXXXXXXXX, XXXXX XXXXX XXXXXXXXXXXXXX XXXXX,
-        XXXXX XXXXXX XXXXX XXXX XX XXXX. XXXX XXXXXX, XXXX XX XXXXXXXX XXXXXX, XXXXX XXXXX XXXXXX XXXX, XX XXXXXXXXX XXXX XXX XXXX XXXX.
-        XXXXX XXXX XXX XXXXXX XXXXX.'
+          XXXXXXXXXXXX XXXXXX XXXXX XXX XXXX, XXXXXXXXXXXXXX XXXXXXXXXX XXXX. XXXXXX XXXXXXXX, XXX XX XXXXXXXX XXXXXXXXX, XXXXX XXXXX XXXXXXXXXXXXXX XXXXX,
+          XXXXX XXXXXX XXXXX XXXX XX XXXX. XXXX XXXXXX, XXXX XX XXXXXXXX XXXXXX, XXXXX XXXXX XXXXXX XXXX, XX XXXXXXXXX XXXX XXX XXXX XXXX.
+          XXXXX XXXX XXX XXXXXX XXXXX.'
       </>
     ),
   },
