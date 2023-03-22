@@ -17,9 +17,9 @@ const testimonials: Testimonial[] = [
       "https://pbs.twimg.com/profile_images/1111711277200621573/TY255KfE_400x400.png",
     text: (
       <>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum, est eu dapibus pulvinar, justo magna consectetur libero, 
-        vitae luctus velit purus eu arcu. Nunc luctus, eros ut accumsan mattis, sapien augue gravida urna, ut bibendum nibh nibh sit amet elit. 
-        Proin non ligula mauris. 
+        XXXXXXXXXXXX XXXXXX XXXXX XXX XXXX, XXXXXXXXXXXXXX XXXXXXXXXX XXXX. XXXXXX XXXXXXXX, XXX XX XXXXXXXX XXXXXXXXX, XXXXX XXXXX XXXXXXXXXXXXXX XXXXX,
+        XXXXX XXXXXX XXXXX XXXX XX XXXX. XXXX XXXXXX, XXXX XX XXXXXXXX XXXXXX, XXXXX XXXXX XXXXXX XXXX, XX XXXXXXXXX XXXX XXX XXXX XXXX.
+        XXXXX XXXX XXX XXXXXX XXXXX.'
       </>
     ),
   },
@@ -45,9 +45,9 @@ const testimonials: Testimonial[] = [
       "https://pbs.twimg.com/profile_images/1244539207890034688/SX7ZG3nt_400x400.jpg",
     text: (
       <>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum, est eu dapibus pulvinar, justo magna consectetur libero, 
-        vitae luctus velit purus eu arcu. Nunc luctus, eros ut accumsan mattis, sapien augue gravida urna, ut bibendum nibh nibh sit amet elit. 
-        Proin non ligula mauris. 
+        XXXXXXXXXXXX XXXXXX XXXXX XXX XXXX, XXXXXXXXXXXXXX XXXXXXXXXX XXXX. XXXXXX XXXXXXXX, XXX XX XXXXXXXX XXXXXXXXX, XXXXX XXXXX XXXXXXXXXXXXXX XXXXX,
+        XXXXX XXXXXX XXXXX XXXX XX XXXX. XXXX XXXXXX, XXXX XX XXXXXXXX XXXXXX, XXXXX XXXXX XXXXXX XXXX, XX XXXXXXXXX XXXX XXX XXXX XXXX.
+        XXXXX XXXX XXX XXXXXX XXXXX.'
       </>
     ),
   },
