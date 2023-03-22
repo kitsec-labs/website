@@ -7,7 +7,7 @@ import React from "react";
 
 export default function Home(): JSX.Element {
   return (
-    <Layout description="Manage your server without fighting the terminal. Server control panel based on Docker.">
+    <Layout description=" Ethical hacking, made easy.">
       <Head>
         <title>Kitsec - Intuitive CLI for Ethical Hacking</title>
       </Head>
