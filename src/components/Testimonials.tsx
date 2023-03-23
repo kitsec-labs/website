@@ -17,7 +17,7 @@ const testimonials: Testimonial[] = [
       "https://y0ung-dst.github.io/young.gif",
     text: (
       <>
-        I'm really proud and impressed by KitSec, a great security toolkit developed in Morocco. 
+        I'm really proud and impressed by KitSec, a great security toolkit.
         It has made my job much easier with its powerful and useful features such as user-friendly usage, 
         fuzzing, port scanning, etc. I'm thrilled to support a homegrown product and highly recommend it 
         to anyone looking to streamline their security processes in their bug hunting or pentesting journey.
