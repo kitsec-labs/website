@@ -1,10 +1,3 @@
----
-slug: /
----
-
-import Tabs from "@theme/Tabs";
-import TabItem from "@theme/TabItem";
-
 # Guidelines
 
 Here are some guidelines for using open source tools for ethical hacking:
@@ -47,7 +40,3 @@ This project is made for educational and ethical testing purposes only. Usage of
 # Acknowledgements
 
 Thank you to @projectdiscovery, @milo2012, @duyet, @ayoubfathi, @Bo0oM and @Practical-Formal-Methods for opening their tools to the world.
-
-# License
-
-Kitsec is licensed under the [MIT License](https://github.com/kitsec-labs/kitsec-core/blob/main/LICENSE).
