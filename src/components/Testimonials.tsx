@@ -37,21 +37,6 @@ const testimonials: Testimonial[] = [
       </>
     ),
   },
-  
-  {
-    name: "Brian Short",
-    role: "Another profile",
-    link: "https://example.com/",
-    avatar:
-      "https://www.iconsdb.com/icons/preview/white/square-xxl.png",
-    text: (
-      <>
-          XXXXXXXXXXXX XXXXXX XXXXX XXX XXXX, XXXXXXXXXXXXXX XXXXXXXXXX XXXX. XXXXXX XXXXXXXX, XXX XX XXXXXXXX XXXXXXXXX, XXXXX XXXXX XXXXXXXXXXXXXX XXXXX,
-          XXXXX XXXXXX XXXXX XXXX XX XXXX. XXXX XXXXXX, XXXX XX XXXXXXXX XXXXXX, XXXXX XXXXX XXXXXX XXXX, XX XXXXXXXXX XXXX XXX XXXX XXXX.
-          XXXXX XXXX XXX XXXXXX XXXXX.'
-      </>
-    ),
-  },
 ];
 
 export default function Testimonials(): JSX.Element {
