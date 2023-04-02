@@ -24,7 +24,7 @@ const testimonials: Testimonial[] = [
   },
   {
     name: "UncleJ4ck",
-    role: "Moroccan Ethical Hacker",
+    role: "Penetration Tester",
     link: "https://github.com/UncleJ4ck",
     avatar: "https://avatars.githubusercontent.com/u/52085661?v=4",
     text: (
