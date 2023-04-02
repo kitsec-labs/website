@@ -10,7 +10,7 @@ type Testimonial = {
 
 const testimonials: Testimonial[] = [
   {
-    name: "y0ng_dst",
+    name: "y0ung_dst",
     role: "Cyber Security Consultant, 2X CVE",
     link: "https://y0ung-dst.github.io/",
     avatar:
@@ -34,6 +34,20 @@ const testimonials: Testimonial[] = [
         Kitsec impressed me. It's user-friendly and centralized, 
         making it fast and efficient. It offers a wide range of capabilities, including OWASP Top 10 coverage, 
         fuzzing, port scanning and more. It's an exceptional ethical hacking tool that I highly recommend.
+      </>
+    ),
+  },
+  {
+    name: "UncleJ4ck",
+    role: "Moroccan Ethical Hacker",
+    link: "https://github.com/UncleJ4ck",
+    avatar: "https://avatars.githubusercontent.com/u/52085661?v=4",
+    text: (
+      <>
+        KitSec is an innovative framework that's constantly evolving and improving. It streamlines various tasks for bug bounty hunters, 
+        making it easier to find and address vulnerabilities. With more contributions and development, KitSec will continue to grow stronger. 
+        Already tackling OWASP Top 10 and other vulnerabilities, this powerful tool has immense potential. As a framework created by hackers for hackers, 
+        I hope to one day contribute to this incredible project and support its ongoing success.
       </>
     ),
   },
