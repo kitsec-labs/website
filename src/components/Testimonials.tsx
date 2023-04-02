@@ -10,21 +10,6 @@ type Testimonial = {
 
 const testimonials: Testimonial[] = [
   {
-    name: "y0ung_dst",
-    role: "Cyber Security Consultant, 2X CVE",
-    link: "https://y0ung-dst.github.io/",
-    avatar:
-      "https://y0ung-dst.github.io/young.gif",
-    text: (
-      <>
-        I'm really proud and impressed by KitSec, a great security toolkit.
-        It has made my job much easier with its powerful and useful features such as user-friendly usage, 
-        fuzzing, port scanning, etc. I'm thrilled to support a homegrown product and highly recommend it 
-        to anyone looking to streamline their security processes in their bug hunting or pentesting journey.
-      </>
-    ),
-  },
-  {
     name: "yassinek3ch",
     role: "One of the Top Moroccan HackerOne Hunters",
     link: "https://hackerone.com/yassinek3ch?type=user",
@@ -45,9 +30,23 @@ const testimonials: Testimonial[] = [
     text: (
       <>
         KitSec is an innovative framework that's constantly evolving and improving. It streamlines various tasks for bug bounty hunters, 
-        making it easier to find and address vulnerabilities. With more contributions and development, KitSec will continue to grow stronger. 
+        making it easier to find and address vulnerabilities.
         Already tackling OWASP Top 10 and other vulnerabilities, this powerful tool has immense potential. As a framework created by hackers for hackers, 
         I hope to one day contribute to this incredible project and support its ongoing success.
+      </>
+    ),
+  },
+  {
+    name: "y0ung_dst",
+    role: "Cyber Security Consultant, 2X CVE",
+    link: "https://y0ung-dst.github.io/",
+    avatar:
+      "https://y0ung-dst.github.io/young.gif",
+    text: (
+      <>
+        I'm really proud and impressed by KitSec, a great security toolkit.
+        It has made my job much easier with its powerful and useful features such as user-friendly usage, 
+        fuzzing, port scanning, etc. I'm thrilled to support a homegrown product and highly recommend it.
       </>
     ),
   },
