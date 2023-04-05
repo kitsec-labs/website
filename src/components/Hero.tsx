@@ -23,7 +23,7 @@ export default function Hero(): JSX.Element {
         A simple CLI for bug bounty hunting.
       </p>
       <div className="tw-px-4 tw-mt-8">
-        <a href="https://pypi.org/project/kitsec/" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/kitsec-labs/kitsec-core" target="_blank" rel="noopener noreferrer">
           <input
             className="tw-bg-gray-800 tw-text-white tw-p-4 tw-border-0 hover:tw-scale-105 tw-rounded-lg tw-font-mono tw-font-bold tw-text-base tw-text-center tw-w-[430px] tw-max-w-full tw-cursor-pointer tw-shadow-highlight"
             defaultValue="pip install kitsec"
