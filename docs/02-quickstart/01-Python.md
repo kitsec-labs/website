@@ -9,8 +9,9 @@ pip install kitsec
 You also need to install the Go dependencies used by some of Kitsec's features. You can do this by running:
 
 
-```py
-kitsec deps
+```go
+go install -v github.com/OWASP/Amass/v3/...@master
+go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 ```
 
 This will install the required Go packages and tools.
