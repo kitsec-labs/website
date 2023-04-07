@@ -39,7 +39,6 @@ To use Kitsec, simply type `kitsec <command>` in your terminal. Here are some ex
 - `kitsec fuzz -p -f "https://www.example.com" `: Tests a web application against path and file fuzzing using a specified wordlist.
 - `kitsec cidr example.com`: Looks up the CIDR range for github.com.
 - `kitsec cve python -l 2: Retrieves CVE data for Python from NIST's National Vulnerability Database (NVD).
-- `kitsec vps --provider linode --username myusername --password mypassword`: Logs in to your Linode VPS with a single command.
 
 We're always working to make Kitsec better, so stay tuned for more features and improvements. If you have any feedback or suggestions, feel free to let us know!
 
