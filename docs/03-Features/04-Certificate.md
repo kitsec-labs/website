@@ -28,5 +28,6 @@ Output:
 Hostname: github.com
 Not Before: 2023-02-14 00:00:00
 Not After: 2024-03-14 23:59:59
-Note that the output may vary depending on the SSL/TLS certificate of the host and port. The tool retrieves the certificate information and displays the hostname, not before date, and not after date for the certificate.
 ```
+
+Note that the output may vary depending on the SSL/TLS certificate of the host and port. The tool retrieves the certificate information and displays the hostname, not before date, and not after date for the certificate.

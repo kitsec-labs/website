@@ -26,5 +26,6 @@ Output:
 
 ```
 The CIDR range for github.com is 192.30.252.0/22
-Note that the CIDR range may differ based on the domain name and the company's network infrastructure.
 ```
+
+Note that the CIDR range may differ based on the domain name and the company's network infrastructure.

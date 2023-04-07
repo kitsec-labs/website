@@ -31,7 +31,6 @@ Kitsec Rocks!
 
 Note that some functions may require additional options or parameters. To see the available options and usage instructions for a specific function, run:
 
-
 ```py
 kitsec convert [FUNCTION] --help
 ```

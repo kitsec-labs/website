@@ -25,7 +25,8 @@ Output:
 Open Ports:
 example.com:80
 example.com:443
+```
+
 Note that the -c option scans only the most common HTTP ports (80, 8080, and 443), 
 but you can scan other ports by omitting this option. Also, the output may vary 
 depending on the open ports found on the target host.
-```

@@ -31,5 +31,5 @@ CVE ID    CVE-2018-1000802
 CWE       CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection') (4.10)
 Severity  Severity information not available
 Summary   Python Software Foundation Python (CPython) version 2.7 contains a CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection') vulnerability in shutil module (make_archive function) that can result in Denial of service, Information gain via injection of arbitrary files on the system or entire drive. This attack appear to be exploitable via Passage of unfiltered user input to the function. This vulnerability appears to have been fixed in after commit add531a1e55b0a739b0f42582f1c9747e5649ace.
-Note that the output may vary depending on the product and the number of CVEs found. The tool retrieves data from the National Vulnerability Database (NVD) and displays the CVE ID, CWE, severity, and summary for each vulnerability.
 ```
+Note that the output may vary depending on the product and the number of CVEs found. The tool retrieves data from the National Vulnerability Database (NVD) and displays the CVE ID, CWE, severity, and summary for each vulnerability.
