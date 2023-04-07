@@ -6,8 +6,9 @@ To use Kitsec, you need to have Python 3 and Go installed on your system. Once y
 pip install kitsec
 ```
 
-You also need to install the Go dependencies used by some of Kitsec's features. You can do this by running:
+- Install go : https://golang.org/doc/install
 
+- Install go dependencies:
 
 ```go
 go install -v github.com/OWASP/Amass/v3/...@master

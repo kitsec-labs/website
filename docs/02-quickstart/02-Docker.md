@@ -1,16 +1,13 @@
 ## Installation
 
-To use Kitsec with Docker, you can either pull the image from Docker Hub by running the following command:
+To use Kitsec with Docker: 
 
+- Download docker : https://docs.docker.com/get-docker/
+
+- Pull the image from Docker Hub:
 
 ```py
 docker pull idrisschebak/kitsec
-```
-
-Or you can build the Docker image from the Docker directory by running:
-
-```py
-docker build -t kitsec .
 ```
 
 ## Usage
