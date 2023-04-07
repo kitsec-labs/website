@@ -29,12 +29,12 @@ You can:
 
 To use Kitsec, simply type `kitsec <command>` in your terminal. Here are some examples:
 
-- `kitsec convert --type url --value "https://www.example.com"`: Decodes a URL.
-- `kitsec enumerator -r -t`: Enumerates all subdomains for example.com.
-- `kitsec capture --url "https://www.example.com" `: Sends a GET request to a specified URL and captures request headers.
+- `kitsec convert S2l0c2VjIFJvY2tzIQ== -t Base64: Decodes a URL.
+- `kitsec enumerator -r -t example.com`: Enumerates all subdomains for example.com.
+- `kitsec capture --url "https://www.example.com/path" `: Sends a GET request to a specified URL and captures request headers.
 - `kitsec portscan example.com `: Scans all possible open ports for example.com.
-- `kitsec certificate --url "https://www.example.com"`: Checks the SSL/TLS certificate information for a given URL.
-- `kitsec storm --url "https://www.example.com" --attacks 100 --requests 5`: Sends 100 HTTP requests to a given URL with 5 requests at a time.
+- `kitsec certificate "https://www.example.com"`: Checks the SSL/TLS certificate information for a given URL.
+- `kitsec storm  "https://www.example.com" --attacks 100 --requests 5`: Sends 100 HTTP requests to a given URL with 5 requests at a time.
 - `kitsec disturb  "https://www.example.com"`: Sends n HTTP requests to the specified URL with the same payload.
 - `kitsec fuzz -p -f "https://www.example.com" `: Tests a web application against path and file fuzzing using a specified wordlist.
 - `kitsec cidr example.com`: Looks up the CIDR range for github.com.
