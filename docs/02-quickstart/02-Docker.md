@@ -18,7 +18,7 @@ docker build -t kitsec .
 To run Kitsec within a Docker container, use the following command:
 
 ```py
-docker run -it kitsec kitsec <command> <options>
+docker run -it idrisschebak/kitsec kitsec <command> <options>
 ```
 
 Replace `<command>` with the specific command you want to run, and `<options>` with any additional options or arguments you want to pass to the command.
@@ -31,7 +31,7 @@ Replace `<command>` with the specific command you want to run, and `<options>` w
 For example, to run the `CVE` command and specify a log level of 2, you would use:
 
 ```py
-docker run -it kitsec kitsec cve python -l 2
+docker run -it idrisschebak/kitsec kitsec cidr github.com
 ```
 
 Refer to the documentation or use `kitsec help` for more information on the available commands and their usage.
