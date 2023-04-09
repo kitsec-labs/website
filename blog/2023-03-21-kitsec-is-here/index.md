@@ -4,10 +4,10 @@ title: Kitsec is here!
 authors: [idrisschebak]
 ---
 
-## Hello World 👋
+## Hello World!
 
-During these last 5 years, i have been playing as a DJ, studying statistic and data science, and working as a software engineer..
-But before that, i was a security researcher and a penetration tester. This led me to chain many (really.. many) bash scripts together to perform security tasks.
+During these last 5 years, i have been playing as a DJ, studying statistic and data science, and working as a data engineer.
+But before that, i was a  penetration tester. This led me to chain many (really.. many) bash scripts together to perform security tasks.
 It was good, but tedious and time-consuming. So, i decided to create a tool that would help me perform security tasks in a more efficient and organized way.
 
 By now.. You're probably wondering what Kitsec is. Well, Kitsec is a command-line tool that helps you perform various security tasks. 
